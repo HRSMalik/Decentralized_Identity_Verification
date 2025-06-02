@@ -1,0 +1,7 @@
+Best Model Test Results:
+Loss: 0.5706
+Accuracy: 0.8322
+Precision: 0.8737
+Recall: 0.8737
+F1 Score: 0.8737
+ROC AUC: 0.8243
